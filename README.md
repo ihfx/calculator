@@ -13,7 +13,7 @@
 
 <!-- Descrição do Projeto -->
 <h3>📃 Descrição do Projeto:</h3>
-<p align="justify"> O objetivo é construir uma calculadora básica utilizando a arquitetura do Flux, através da ferramenta Redux, para sanar o problema de Prop Drilling (perfuração de propriedades)</p>
+<p align="justify"> O objetivo é construir uma calculadora básica utilizando a arquitetura do Flux, através da ferramenta Redux, para sanar o problema de Prop Drilling (perfuração de propriedades) e fluxo de dados!</p>
 
 <!-- Tecnologias utilizadas -->
 <h3>🌎 Tecnologias Utilizadas:</h3>
